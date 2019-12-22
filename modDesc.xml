@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="46">
+	<author>Blacky_BPG</author>
+	<version>1.9.0.1</version>
+	<title>
+		<en>EMR - Engines must run</en>
+		<de><![CDATA[EMR - Engines must run]]></de>
+	</title>
+	<description>
+		<en><![CDATA[Dont turn off engine if manual motor start enabled and engine is turned on]]></en>
+		<de><![CDATA[Schaltet den Motor nicht aus wenn der manuelle Motorstart aktiviert ist und der Motor läuft]]></de>
+	</description>
+	<iconFilename>bpglogo.png</iconFilename>
+	<multiplayer supported="true"/>
+	<extraSourceFiles>
+		<sourceFile filename="enginesMustRun.lua" />
+	</extraSourceFiles>
+</modDesc>
